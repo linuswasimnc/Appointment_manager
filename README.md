@@ -55,10 +55,7 @@ ASSIGNMENT NO : 1 Appointment manager that allows Terraformers to schedule appoi
 
 ## Links
 
-- Hosted URL:- https://www.nbyula-appointment-manager.arpitchugh.live/
-- Server Repo:- https://github.com/Arpitchugh/nbyula-appointment-manager-server
-- Client Repo:- https://github.com/Arpitchugh/nbyula-appointment-manager-client
-- Postman:- https://www.postman.com/arpiitchugh/workspace/nbyula-appointment-manager
+
 
 ## Demo
 
