@@ -21,7 +21,7 @@ ASSIGNMENT NO : 1 Appointment manager that allows Terraformers to schedule appoi
 - Proper authentication with access and refresh tokens
 - User will be automatically redirected to login page if they are not logged in
 - There are option for Date, Week and Month for calender
-- Verification email on signup and forgot password (Email will be sent from no-reply@shriproperty.com because I already have a business email for my fathers business)
+- Verification email on signup and forgot password 
 
   ![verify email](https://user-images.githubusercontent.com/69336518/190984135-3167b390-dc8e-4e5a-a0e1-253e23d57671.png)
 
