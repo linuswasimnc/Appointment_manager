@@ -1,4 +1,4 @@
-#Appointment Manager
+Appointment Manager
 
 Appointment manager that allows Users to schedule appointments/meetings easily
 
