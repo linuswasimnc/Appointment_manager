@@ -1,20 +1,18 @@
-# Nbyula-Assignment
+#Appointment Manager
 
-## Nbyula Takeaway Assignment 1 ( Appointment Manager )
-
-ASSIGNMENT NO : 1 Appointment manager that allows Terraformers to schedule appointments/meetings easily
+Appointment manager that allows Users to schedule appointments/meetings easily
 
 ## Features
 
-- Terraformers can login and signup on the application
-- Terraformers can set their off hours
-- Terraformers can schedule an appointment with other Terraformers on application
+- Users can login and signup on the application
+- Users can set their off hours
+- Users can schedule an appointment with other Terraformers on application
   - Appointment will contain `title`, `agenda`, `time`, `guests` (other Terraformers)
   - Appointment will not be scheduled if any Terraformers are off during the time slot
-- Terraformers can view their appointments on the application
-- Terraformers can update their `password` and `name` on the application
-- Terraformers can delete appointments
-- Terraformers can logout of the application
+- Users can view their appointments on the application
+- Users can update their `password` and `name` on the application
+- Users can delete appointments
+- Users can logout of the application
 
 ## Plus point's
 
@@ -110,4 +108,4 @@ ASSIGNMENT NO : 1 Appointment manager that allows Terraformers to schedule appoi
 - Change Name
 
 ![Change name](https://user-images.githubusercontent.com/63435960/191011213-595aa863-a433-48f1-bf9d-5a8edcb4c36c.gif)
-# Nbyula-Assignment
+#Appointment Manager
